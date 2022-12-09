@@ -1,0 +1,35 @@
+.carousel-item img {
+    height: 500px;
+    height: 400px;
+}
+
+.col-lg-4 img {
+    width: 280px;
+    height: 280px;
+}
+
+.col-lg-4 p {
+    text-align: justify;
+}
+
+.col-lg-4 p i {
+    margin-right: 20px;
+}
+
+.col-lg-4 p a {
+    font-size: 20px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.col-lg-4 p a:hover {
+    color: azure;
+    background-color: black;
+
+}
+
+.vertical {
+    height: 150px;
+    border-left: 2px solid black;
+}
