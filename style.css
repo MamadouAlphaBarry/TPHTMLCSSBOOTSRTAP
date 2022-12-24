@@ -30,6 +30,15 @@
 }
 
 .vertical {
-    height: 150px;
+    height: 300px;
     border-left: 2px solid black;
+}
+
+nav {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a {
+    margin-right: 30px;
 }
